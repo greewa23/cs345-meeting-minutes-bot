@@ -1,0 +1,1 @@
+# cs345-meeting-minutes-bot
