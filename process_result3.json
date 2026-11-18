@@ -1,1 +1,659 @@
-{"analysis":{"confidence_scores":{"negative":0.0,"neutral":0.09,"positive":0.91},"entity_count":11,"key_phrases":["upcoming submission deadline","University Group project","artificial intelligence","academic sources","PowerPoint presentation","main findings","November 20th","November 22nd","impact","students","Sarah","background","James","2:00 PM","everyone","progress"],"named_entities":{"dates_and_times":[{"category":"DateTime","confidence_score":0.98,"length":5,"offset":0,"subcategory":"Date","text":"Today"},{"category":"DateTime","confidence_score":1.0,"length":16,"offset":276,"subcategory":"DateRange","text":"by November 20th"},{"category":"DateTime","confidence_score":1.0,"length":16,"offset":371,"subcategory":"DateRange","text":"by November 22nd"},{"category":"DateTime","confidence_score":1.0,"length":12,"offset":431,"subcategory":"Date","text":"November 23."},{"category":"DateTime","confidence_score":0.98,"length":7,"offset":447,"subcategory":"Time","text":"2:00 PM"}],"organizations":[{"category":"Organization","confidence_score":0.87,"length":16,"offset":36,"subcategory":null,"text":"University Group"}],"other":[{"category":"Skill","confidence_score":0.89,"length":23,"offset":151,"subcategory":null,"text":"artificial intelligence"},{"category":"PersonType","confidence_score":0.99,"length":8,"offset":178,"subcategory":null,"text":"students"},{"category":"Skill","confidence_score":0.99,"length":11,"offset":218,"subcategory":null,"text":"researching"}],"people":[{"category":"Person","confidence_score":1.0,"length":5,"offset":188,"subcategory":null,"text":"Sarah"},{"category":"Person","confidence_score":0.99,"length":5,"offset":294,"subcategory":null,"text":"James"}],"places":[],"quantities":[]},"sentiment":"positive"},"file":{"filename":"test3.wav"},"meeting":{"action_item_count":3,"action_items":[{"due_date":"2026-11-20","owner":"Sarah","status":"pending","task":"researching the background and gathering academic sources 20th"},{"due_date":"2026-11-22","owner":"James","status":"pending","task":"create the PowerPoint presentation and organize the main findings 22nd"},{"due_date":"2026-11-23","owner":"we","status":"pending","task":"meet again on November 23. At 2:00 PM to review everyone's progress"}],"decisions":[{"description":"We've decided to focus our project on the impact of artificial intelligence on students"},{"description":"I have decided that we will meet again on November 23. At 2:00 PM to review everyone's progress"}],"meetings":[]},"success":true,"transcription":{"confidence":0.819,"duration_seconds":34.27,"full_text":"Today we are meeting to discuss our University Group project. In the upcoming submission deadline. We've decided to focus our project on the impact of artificial intelligence on students. Sarah will be responsible for researching the background and gathering academic sources by November 20th. James will create the PowerPoint presentation and organize the main findings by November 22nd. I have decided that we will meet again on November 23. At 2:00 PM to review everyone's progress. Thanks everyone.","language":"en-US","words":[{"confidence":0.9208993,"duration":0.68,"offset":0.9,"word":"today"},{"confidence":0.8606112,"duration":0.24,"offset":1.58,"word":"we"},{"confidence":0.8418288,"duration":0.12,"offset":1.82,"word":"are"},{"confidence":0.88625664,"duration":0.36,"offset":1.94,"word":"meeting"},{"confidence":0.831426,"duration":0.16,"offset":2.3,"word":"to"},{"confidence":0.8022732,"duration":0.6,"offset":2.46,"word":"discuss"},{"confidence":0.8042471,"duration":0.2,"offset":3.06,"word":"our"},{"confidence":0.83706176,"duration":0.76,"offset":3.26,"word":"university"},{"confidence":0.89676356,"duration":0.24,"offset":4.02,"word":"group"},{"confidence":0.9458654,"duration":0.6,"offset":4.26,"word":"project"},{"confidence":0.19520555,"duration":0.16,"offset":4.86,"word":"in"},{"confidence":0.9450121,"duration":0.16,"offset":5.02,"word":"the"},{"confidence":0.8020529,"duration":0.56,"offset":5.18,"word":"upcoming"},{"confidence":0.8457004,"duration":0.56,"offset":5.74,"word":"submission"},{"confidence":0.94468135,"duration":0.84,"offset":6.3,"word":"deadline"},{"confidence":0.77309686,"duration":0.28,"offset":7.18,"word":"we've"},{"confidence":0.943958,"duration":0.52,"offset":7.46,"word":"decided"},{"confidence":0.9461706,"duration":0.12,"offset":7.98,"word":"to"},{"confidence":0.945449,"duration":0.44,"offset":8.1,"word":"focus"},{"confidence":0.8267771,"duration":0.16,"offset":8.54,"word":"our"},{"confidence":0.94882756,"duration":0.52,"offset":8.7,"word":"project"},{"confidence":0.9353718,"duration":0.12,"offset":9.22,"word":"on"},{"confidence":0.91043264,"duration":0.2,"offset":9.34,"word":"the"},{"confidence":0.93082076,"duration":0.48,"offset":9.54,"word":"impact"},{"confidence":0.85653543,"duration":0.16,"offset":10.02,"word":"of"},{"confidence":0.9408912,"duration":0.6,"offset":10.18,"word":"artificial"},{"confidence":0.8975424,"duration":0.76,"offset":10.78,"word":"intelligence"},{"confidence":0.93796986,"duration":0.24,"offset":11.54,"word":"on"},{"confidence":0.88031346,"duration":0.88,"offset":11.78,"word":"students"},{"confidence":0.553413,"duration":0.68,"offset":13.02,"word":"sarah"},{"confidence":0.89040655,"duration":0.2,"offset":13.7,"word":"will"},{"confidence":0.9130313,"duration":0.12,"offset":13.9,"word":"be"},{"confidence":0.8086449,"duration":0.72,"offset":14.02,"word":"responsible"},{"confidence":0.93635386,"duration":0.16,"offset":14.74,"word":"for"},{"confidence":0.92414504,"duration":0.68,"offset":14.9,"word":"researching"},{"confidence":0.91918486,"duration":0.12,"offset":15.58,"word":"the"},{"confidence":0.9442134,"duration":0.6,"offset":15.7,"word":"background"},{"confidence":0.8681358,"duration":0.2,"offset":16.3,"word":"and"},{"confidence":0.8108033,"duration":0.8,"offset":16.5,"word":"gathering"},{"confidence":0.80383885,"duration":0.64,"offset":17.3,"word":"academic"},{"confidence":0.9310577,"duration":0.64,"offset":17.94,"word":"sources"},{"confidence":0.943917,"duration":0.16,"offset":18.58,"word":"by"},{"confidence":0.81985724,"duration":0.52,"offset":18.74,"word":"november"},{"confidence":0.35321033,"duration":0.56,"offset":19.26,"word":"twentieth"},{"confidence":0.89592683,"duration":0.84,"offset":20.22,"word":"james"},{"confidence":0.7465477,"duration":0.2,"offset":21.06,"word":"will"},{"confidence":0.8337506,"duration":0.4,"offset":21.26,"word":"create"},{"confidence":0.9353411,"duration":0.12,"offset":21.66,"word":"the"},{"confidence":0.723458,"duration":0.6,"offset":21.78,"word":"powerpoint"},{"confidence":0.93825334,"duration":0.8,"offset":22.38,"word":"presentation"},{"confidence":0.89891285,"duration":0.16,"offset":23.22,"word":"and"},{"confidence":0.61650866,"duration":0.52,"offset":23.38,"word":"organize"},{"confidence":0.9343792,"duration":0.12,"offset":23.9,"word":"the"},{"confidence":0.8444651,"duration":0.32,"offset":24.02,"word":"main"},{"confidence":0.93522924,"duration":0.56,"offset":24.34,"word":"findings"},{"confidence":0.92853326,"duration":0.12,"offset":24.9,"word":"by"},{"confidence":0.7785439,"duration":0.52,"offset":25.02,"word":"november"},{"confidence":0.8090269,"duration":0.32,"offset":25.54,"word":"twenty"},{"confidence":0.13359436,"duration":0.52,"offset":25.86,"word":"second"},{"confidence":0.9200311,"duration":0.04,"offset":26.86,"word":"i"},{"confidence":0.7926686,"duration":0.24,"offset":26.9,"word":"have"},{"confidence":0.94138277,"duration":0.56,"offset":27.14,"word":"decided"},{"confidence":0.9013343,"duration":0.16,"offset":27.7,"word":"that"},{"confidence":0.8987438,"duration":0.08,"offset":27.86,"word":"we"},{"confidence":0.83113176,"duration":0.16,"offset":27.94,"word":"will"},{"confidence":0.931474,"duration":0.2,"offset":28.1,"word":"meet"},{"confidence":0.81999266,"duration":0.44,"offset":28.3,"word":"again"},{"confidence":0.8585024,"duration":0.12,"offset":28.74,"word":"on"},{"confidence":0.76387995,"duration":0.44,"offset":28.86,"word":"november"},{"confidence":0.861806,"duration":0.36,"offset":29.3,"word":"twenty"},{"confidence":0.12835547,"duration":0.44,"offset":29.66,"word":"three"},{"confidence":0.9628378,"duration":0.16,"offset":30.43,"word":"at"},{"confidence":0.867844,"duration":0.32,"offset":30.59,"word":"two"},{"confidence":0.63903564,"duration":0.08,"offset":30.91,"word":"PM"},{"confidence":0.7674875,"duration":0.2,"offset":31.47,"word":"to"},{"confidence":0.7594515,"duration":0.32,"offset":31.67,"word":"review"},{"confidence":0.3089546,"duration":0.44,"offset":31.99,"word":"everyone"},{"confidence":0.27657992,"duration":0.04,"offset":32.43,"word":"'s"},{"confidence":0.92996645,"duration":0.76,"offset":32.47,"word":"progress"},{"confidence":0.90214974,"duration":0.32,"offset":33.27,"word":"thanks"},{"confidence":0.90691143,"duration":0.68,"offset":33.59,"word":"everyone"}]}}
+{
+    "analysis": {
+        "confidence_scores": {
+            "negative": 0.0,
+            "neutral": 0.09,
+            "positive": 0.91
+        },
+        "entity_count": 11,
+        "key_phrases": [
+            "upcoming submission deadline",
+            "University Group project",
+            "artificial intelligence",
+            "academic sources",
+            "PowerPoint presentation",
+            "main findings",
+            "November 20th",
+            "November 22nd",
+            "impact",
+            "students",
+            "Sarah",
+            "background",
+            "James",
+            "2:00 PM",
+            "everyone",
+            "progress"
+        ],
+        "named_entities": {
+            "dates_and_times": [
+                {
+                    "category": "DateTime",
+                    "confidence_score": 0.98,
+                    "length": 5,
+                    "offset": 0,
+                    "subcategory": "Date",
+                    "text": "Today"
+                },
+                {
+                    "category": "DateTime",
+                    "confidence_score": 1.0,
+                    "length": 16,
+                    "offset": 276,
+                    "subcategory": "DateRange",
+                    "text": "by November 20th"
+                },
+                {
+                    "category": "DateTime",
+                    "confidence_score": 1.0,
+                    "length": 16,
+                    "offset": 371,
+                    "subcategory": "DateRange",
+                    "text": "by November 22nd"
+                },
+                {
+                    "category": "DateTime",
+                    "confidence_score": 1.0,
+                    "length": 12,
+                    "offset": 431,
+                    "subcategory": "Date",
+                    "text": "November 23."
+                },
+                {
+                    "category": "DateTime",
+                    "confidence_score": 0.98,
+                    "length": 7,
+                    "offset": 447,
+                    "subcategory": "Time",
+                    "text": "2:00 PM"
+                }
+            ],
+            "organizations": [
+                {
+                    "category": "Organization",
+                    "confidence_score": 0.87,
+                    "length": 16,
+                    "offset": 36,
+                    "subcategory": null,
+                    "text": "University Group"
+                }
+            ],
+            "other": [
+                {
+                    "category": "Skill",
+                    "confidence_score": 0.89,
+                    "length": 23,
+                    "offset": 151,
+                    "subcategory": null,
+                    "text": "artificial intelligence"
+                },
+                {
+                    "category": "PersonType",
+                    "confidence_score": 0.99,
+                    "length": 8,
+                    "offset": 178,
+                    "subcategory": null,
+                    "text": "students"
+                },
+                {
+                    "category": "Skill",
+                    "confidence_score": 0.99,
+                    "length": 11,
+                    "offset": 218,
+                    "subcategory": null,
+                    "text": "researching"
+                }
+            ],
+            "people": [
+                {
+                    "category": "Person",
+                    "confidence_score": 1.0,
+                    "length": 5,
+                    "offset": 188,
+                    "subcategory": null,
+                    "text": "Sarah"
+                },
+                {
+                    "category": "Person",
+                    "confidence_score": 0.99,
+                    "length": 5,
+                    "offset": 294,
+                    "subcategory": null,
+                    "text": "James"
+                }
+            ],
+            "places": [],
+            "quantities": []
+        },
+        "sentiment": "positive"
+    },
+    "file": {
+        "filename": "test3.wav"
+    },
+    "meeting": {
+        "action_item_count": 3,
+        "action_items": [
+            {
+                "due_date": "2026-11-20",
+                "owner": "Sarah",
+                "status": "pending",
+                "task": "researching the background and gathering academic sources 20th"
+            },
+            {
+                "due_date": "2026-11-22",
+                "owner": "James",
+                "status": "pending",
+                "task": "create the PowerPoint presentation and organize the main findings 22nd"
+            },
+            {
+                "due_date": "2026-11-23",
+                "owner": "we",
+                "status": "pending",
+                "task": "meet again on November 23. At 2:00 PM to review everyone's progress"
+            }
+        ],
+        "decisions": [
+            {
+                "description": "We've decided to focus our project on the impact of artificial intelligence on students"
+            },
+            {
+                "description": "I have decided that we will meet again on November 23. At 2:00 PM to review everyone's progress"
+            }
+        ],
+        "meetings": []
+    },
+    "success": true,
+    "transcription": {
+        "confidence": 0.819,
+        "duration_seconds": 34.27,
+        "full_text": "Today we are meeting to discuss our University Group project. In the upcoming submission deadline. We've decided to focus our project on the impact of artificial intelligence on students. Sarah will be responsible for researching the background and gathering academic sources by November 20th. James will create the PowerPoint presentation and organize the main findings by November 22nd. I have decided that we will meet again on November 23. At 2:00 PM to review everyone's progress. Thanks everyone.",
+        "language": "en-US",
+        "words": [
+            {
+                "confidence": 0.9208993,
+                "duration": 0.68,
+                "offset": 0.9,
+                "word": "today"
+            },
+            {
+                "confidence": 0.8606112,
+                "duration": 0.24,
+                "offset": 1.58,
+                "word": "we"
+            },
+            {
+                "confidence": 0.8418288,
+                "duration": 0.12,
+                "offset": 1.82,
+                "word": "are"
+            },
+            {
+                "confidence": 0.88625664,
+                "duration": 0.36,
+                "offset": 1.94,
+                "word": "meeting"
+            },
+            {
+                "confidence": 0.831426,
+                "duration": 0.16,
+                "offset": 2.3,
+                "word": "to"
+            },
+            {
+                "confidence": 0.8022732,
+                "duration": 0.6,
+                "offset": 2.46,
+                "word": "discuss"
+            },
+            {
+                "confidence": 0.8042471,
+                "duration": 0.2,
+                "offset": 3.06,
+                "word": "our"
+            },
+            {
+                "confidence": 0.83706176,
+                "duration": 0.76,
+                "offset": 3.26,
+                "word": "university"
+            },
+            {
+                "confidence": 0.89676356,
+                "duration": 0.24,
+                "offset": 4.02,
+                "word": "group"
+            },
+            {
+                "confidence": 0.9458654,
+                "duration": 0.6,
+                "offset": 4.26,
+                "word": "project"
+            },
+            {
+                "confidence": 0.19520555,
+                "duration": 0.16,
+                "offset": 4.86,
+                "word": "in"
+            },
+            {
+                "confidence": 0.9450121,
+                "duration": 0.16,
+                "offset": 5.02,
+                "word": "the"
+            },
+            {
+                "confidence": 0.8020529,
+                "duration": 0.56,
+                "offset": 5.18,
+                "word": "upcoming"
+            },
+            {
+                "confidence": 0.8457004,
+                "duration": 0.56,
+                "offset": 5.74,
+                "word": "submission"
+            },
+            {
+                "confidence": 0.94468135,
+                "duration": 0.84,
+                "offset": 6.3,
+                "word": "deadline"
+            },
+            {
+                "confidence": 0.77309686,
+                "duration": 0.28,
+                "offset": 7.18,
+                "word": "we've"
+            },
+            {
+                "confidence": 0.943958,
+                "duration": 0.52,
+                "offset": 7.46,
+                "word": "decided"
+            },
+            {
+                "confidence": 0.9461706,
+                "duration": 0.12,
+                "offset": 7.98,
+                "word": "to"
+            },
+            {
+                "confidence": 0.945449,
+                "duration": 0.44,
+                "offset": 8.1,
+                "word": "focus"
+            },
+            {
+                "confidence": 0.8267771,
+                "duration": 0.16,
+                "offset": 8.54,
+                "word": "our"
+            },
+            {
+                "confidence": 0.94882756,
+                "duration": 0.52,
+                "offset": 8.7,
+                "word": "project"
+            },
+            {
+                "confidence": 0.9353718,
+                "duration": 0.12,
+                "offset": 9.22,
+                "word": "on"
+            },
+            {
+                "confidence": 0.91043264,
+                "duration": 0.2,
+                "offset": 9.34,
+                "word": "the"
+            },
+            {
+                "confidence": 0.93082076,
+                "duration": 0.48,
+                "offset": 9.54,
+                "word": "impact"
+            },
+            {
+                "confidence": 0.85653543,
+                "duration": 0.16,
+                "offset": 10.02,
+                "word": "of"
+            },
+            {
+                "confidence": 0.9408912,
+                "duration": 0.6,
+                "offset": 10.18,
+                "word": "artificial"
+            },
+            {
+                "confidence": 0.8975424,
+                "duration": 0.76,
+                "offset": 10.78,
+                "word": "intelligence"
+            },
+            {
+                "confidence": 0.93796986,
+                "duration": 0.24,
+                "offset": 11.54,
+                "word": "on"
+            },
+            {
+                "confidence": 0.88031346,
+                "duration": 0.88,
+                "offset": 11.78,
+                "word": "students"
+            },
+            {
+                "confidence": 0.553413,
+                "duration": 0.68,
+                "offset": 13.02,
+                "word": "sarah"
+            },
+            {
+                "confidence": 0.89040655,
+                "duration": 0.2,
+                "offset": 13.7,
+                "word": "will"
+            },
+            {
+                "confidence": 0.9130313,
+                "duration": 0.12,
+                "offset": 13.9,
+                "word": "be"
+            },
+            {
+                "confidence": 0.8086449,
+                "duration": 0.72,
+                "offset": 14.02,
+                "word": "responsible"
+            },
+            {
+                "confidence": 0.93635386,
+                "duration": 0.16,
+                "offset": 14.74,
+                "word": "for"
+            },
+            {
+                "confidence": 0.92414504,
+                "duration": 0.68,
+                "offset": 14.9,
+                "word": "researching"
+            },
+            {
+                "confidence": 0.91918486,
+                "duration": 0.12,
+                "offset": 15.58,
+                "word": "the"
+            },
+            {
+                "confidence": 0.9442134,
+                "duration": 0.6,
+                "offset": 15.7,
+                "word": "background"
+            },
+            {
+                "confidence": 0.8681358,
+                "duration": 0.2,
+                "offset": 16.3,
+                "word": "and"
+            },
+            {
+                "confidence": 0.8108033,
+                "duration": 0.8,
+                "offset": 16.5,
+                "word": "gathering"
+            },
+            {
+                "confidence": 0.80383885,
+                "duration": 0.64,
+                "offset": 17.3,
+                "word": "academic"
+            },
+            {
+                "confidence": 0.9310577,
+                "duration": 0.64,
+                "offset": 17.94,
+                "word": "sources"
+            },
+            {
+                "confidence": 0.943917,
+                "duration": 0.16,
+                "offset": 18.58,
+                "word": "by"
+            },
+            {
+                "confidence": 0.81985724,
+                "duration": 0.52,
+                "offset": 18.74,
+                "word": "november"
+            },
+            {
+                "confidence": 0.35321033,
+                "duration": 0.56,
+                "offset": 19.26,
+                "word": "twentieth"
+            },
+            {
+                "confidence": 0.89592683,
+                "duration": 0.84,
+                "offset": 20.22,
+                "word": "james"
+            },
+            {
+                "confidence": 0.7465477,
+                "duration": 0.2,
+                "offset": 21.06,
+                "word": "will"
+            },
+            {
+                "confidence": 0.8337506,
+                "duration": 0.4,
+                "offset": 21.26,
+                "word": "create"
+            },
+            {
+                "confidence": 0.9353411,
+                "duration": 0.12,
+                "offset": 21.66,
+                "word": "the"
+            },
+            {
+                "confidence": 0.723458,
+                "duration": 0.6,
+                "offset": 21.78,
+                "word": "powerpoint"
+            },
+            {
+                "confidence": 0.93825334,
+                "duration": 0.8,
+                "offset": 22.38,
+                "word": "presentation"
+            },
+            {
+                "confidence": 0.89891285,
+                "duration": 0.16,
+                "offset": 23.22,
+                "word": "and"
+            },
+            {
+                "confidence": 0.61650866,
+                "duration": 0.52,
+                "offset": 23.38,
+                "word": "organize"
+            },
+            {
+                "confidence": 0.9343792,
+                "duration": 0.12,
+                "offset": 23.9,
+                "word": "the"
+            },
+            {
+                "confidence": 0.8444651,
+                "duration": 0.32,
+                "offset": 24.02,
+                "word": "main"
+            },
+            {
+                "confidence": 0.93522924,
+                "duration": 0.56,
+                "offset": 24.34,
+                "word": "findings"
+            },
+            {
+                "confidence": 0.92853326,
+                "duration": 0.12,
+                "offset": 24.9,
+                "word": "by"
+            },
+            {
+                "confidence": 0.7785439,
+                "duration": 0.52,
+                "offset": 25.02,
+                "word": "november"
+            },
+            {
+                "confidence": 0.8090269,
+                "duration": 0.32,
+                "offset": 25.54,
+                "word": "twenty"
+            },
+            {
+                "confidence": 0.13359436,
+                "duration": 0.52,
+                "offset": 25.86,
+                "word": "second"
+            },
+            {
+                "confidence": 0.9200311,
+                "duration": 0.04,
+                "offset": 26.86,
+                "word": "i"
+            },
+            {
+                "confidence": 0.7926686,
+                "duration": 0.24,
+                "offset": 26.9,
+                "word": "have"
+            },
+            {
+                "confidence": 0.94138277,
+                "duration": 0.56,
+                "offset": 27.14,
+                "word": "decided"
+            },
+            {
+                "confidence": 0.9013343,
+                "duration": 0.16,
+                "offset": 27.7,
+                "word": "that"
+            },
+            {
+                "confidence": 0.8987438,
+                "duration": 0.08,
+                "offset": 27.86,
+                "word": "we"
+            },
+            {
+                "confidence": 0.83113176,
+                "duration": 0.16,
+                "offset": 27.94,
+                "word": "will"
+            },
+            {
+                "confidence": 0.931474,
+                "duration": 0.2,
+                "offset": 28.1,
+                "word": "meet"
+            },
+            {
+                "confidence": 0.81999266,
+                "duration": 0.44,
+                "offset": 28.3,
+                "word": "again"
+            },
+            {
+                "confidence": 0.8585024,
+                "duration": 0.12,
+                "offset": 28.74,
+                "word": "on"
+            },
+            {
+                "confidence": 0.76387995,
+                "duration": 0.44,
+                "offset": 28.86,
+                "word": "november"
+            },
+            {
+                "confidence": 0.861806,
+                "duration": 0.36,
+                "offset": 29.3,
+                "word": "twenty"
+            },
+            {
+                "confidence": 0.12835547,
+                "duration": 0.44,
+                "offset": 29.66,
+                "word": "three"
+            },
+            {
+                "confidence": 0.9628378,
+                "duration": 0.16,
+                "offset": 30.43,
+                "word": "at"
+            },
+            {
+                "confidence": 0.867844,
+                "duration": 0.32,
+                "offset": 30.59,
+                "word": "two"
+            },
+            {
+                "confidence": 0.63903564,
+                "duration": 0.08,
+                "offset": 30.91,
+                "word": "PM"
+            },
+            {
+                "confidence": 0.7674875,
+                "duration": 0.2,
+                "offset": 31.47,
+                "word": "to"
+            },
+            {
+                "confidence": 0.7594515,
+                "duration": 0.32,
+                "offset": 31.67,
+                "word": "review"
+            },
+            {
+                "confidence": 0.3089546,
+                "duration": 0.44,
+                "offset": 31.99,
+                "word": "everyone"
+            },
+            {
+                "confidence": 0.27657992,
+                "duration": 0.04,
+                "offset": 32.43,
+                "word": "'s"
+            },
+            {
+                "confidence": 0.92996645,
+                "duration": 0.76,
+                "offset": 32.47,
+                "word": "progress"
+            },
+            {
+                "confidence": 0.90214974,
+                "duration": 0.32,
+                "offset": 33.27,
+                "word": "thanks"
+            },
+            {
+                "confidence": 0.90691143,
+                "duration": 0.68,
+                "offset": 33.59,
+                "word": "everyone"
+            }
+        ]
+    }
+}
