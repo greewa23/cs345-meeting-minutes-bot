@@ -15,3 +15,6 @@ POST /analyze:
 POST /process:
 <img width="2560" height="1714" alt="image" src="https://github.com/user-attachments/assets/4676bf74-1d48-4862-a049-c6b5a845dadf" />
 <img width="2870" height="1758" alt="image" src="https://github.com/user-attachments/assets/1858d387-f057-486b-8c2c-ff2886934d20" />
+
+POST /export:
+<img width="1704" height="1436" alt="image" src="https://github.com/user-attachments/assets/fdd2b45d-499e-4fa4-bec8-97aeef3ffa6c" />
